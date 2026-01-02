@@ -1,4 +1,4 @@
-# Hi, I'm Yoojin❕
+# Hi, my name is Yoojin❕
 
 ### 🧱 Current Focus
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/>
@@ -9,8 +9,8 @@
 ---
 
 ## 👀 About Me
-* 🚀 I'm currently working on building my identity as a **Backend Developer**.
-* 🌱 I am learning **Python**, **Git**, and **Linux**.
+* 🚀 I am currently working on building my identity as a **Backend Developer**.
+* 🌱 I am in the process of learning **Python**, **Git**, and **Linux**.
 * 💬 Ask me about **how I finally figured out my README!**
 
 ---
